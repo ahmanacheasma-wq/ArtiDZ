@@ -1,16 +1,19 @@
-# prise_rdv
+# ArtiDZ — Application Artisans & Clients
 
-A new Flutter project.
+Application mobile de mise en relation entre artisans et clients, développée en Flutter avec une base de données SQLite.
 
-## Getting Started
+## Fonctionnalités
+- Recherche d'artisans par wilaya, spécialité et disponibilité
+- Fiche vitrine pour chaque artisan (services, réalisations, avis)
+- Géolocalisation des ateliers via carte interactive
+- Système d'avis et de notation
 
-This project is a starting point for a Flutter application.
+## Technologies
+- Flutter / Dart
+- SQLite
 
-A few resources to get you started if this is your first Flutter project:
+## Contexte
+Projet de fin d'études réalisé en 3ème année Licence Informatique (2024–2025), en binôme.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Statut
+Projet réalisé dans un cadre académique, encore perfectible sur certaines fonctionnalités.
